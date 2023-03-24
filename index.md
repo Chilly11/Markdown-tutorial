@@ -10,3 +10,7 @@ $ git init
 
 Initialized empty Git repository in Users/ChrisH/git_practice/projects/
 
+- [ ] turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
